@@ -1,4 +1,4 @@
-# #zad5
+#zad5
 def slownik(slowo):
     lancuch=" "
     if slowo == "jeden":
@@ -20,7 +20,7 @@ print("Wpisz slowo")
 slowo=input()
 print(slownik(slowo))
 
-# #zad4
+#zad4
 # def zamiana(lancuch):
 #     wynik= lancuch[-1]+lancuch[1:-1]+lancuch[:1]
 #     return wynik
@@ -29,7 +29,7 @@ print(slownik(slowo))
 # lancuch=input()
 # print(zamiana(lancuch))
 
-# #zad3
+#zad3
 # import random
 # def los(liczba):
 #     for liczba in alfabet:
@@ -40,7 +40,7 @@ print(slownik(slowo))
 # liczba=int(input())
 # print(los(liczba))
 
-# #zad2
+#zad2
 # def usun(nr):
 #     if nr==0 or nr==2 or nr==3 or nr==4 or nr==5 or nr==6 or nr==7 or nr==8 or nr==9:
 #         return nr
@@ -48,7 +48,7 @@ print(slownik(slowo))
 # nr=input()
 # print(usun(nr))
 
-# #zad.1
+#zad1
 # def liczby(lista):
 #     for liczba in lista[:]:
 #         if lista%2==0:

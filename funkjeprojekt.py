@@ -14,12 +14,6 @@ def slownik(slowo):
     else:
         return lancuch
 
-
-slow={"jeden":"one", "dwa": "two", "trzy":"three", "cztery":"four", "pięć":"five"}
-print("Wpisz slowo")
-slowo=input()
-print(slownik(slowo))
-
 #zad4
 # def zamiana(lancuch):
 #     wynik= lancuch[-1]+lancuch[1:-1]+lancuch[:1]

@@ -13,6 +13,9 @@ def slownik(slowo):
         return "five"
     else:
         return lancuch
+    
+lista = [1,2,3,4,5,6]
+print(lista)
 
 #zad4
 # def zamiana(lancuch):
